@@ -1,0 +1,2 @@
+ST Doors Vaivén Doble V13 - GitHub Pages
+Sube index.html y la carpeta assets a la raíz del repositorio. En Settings > Pages: Deploy from a branch, main, /(root).
